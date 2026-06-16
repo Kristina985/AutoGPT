@@ -72,23 +72,32 @@ cd AutoGPT
 pip install -r requirements.txt
 python -m autogpt
 
+---
 
-## 🚀 Key Features (Kris Edition)
+## 🧩 Kris Edition Notes
 
-- enhanced task‑flows for STR operations  
-- automated SOP generation  
-- AI assistant for guest communication (templates, tone, draft replies)  
-- market analysis and pricing framework prompts  
-- conceptual integrations with Notion / Google Sheets  
-- modular agents for repetitive remote‑operations tasks  
+This fork is maintained and customized by **Kris**, focusing on:
+
+- STR operations  
+- Remote work automation  
+- Virtual assistant workflows  
+- Documentation‑ready AI output  
+
+If you want to contribute, suggest improvements, or report issues, feel free to open an issue or submit a pull request.
 
 ---
 
-## 🛠 Installation
+## 📄 License
 
-```bash
-# AutoGPT – Kris Edition  
-_Custom fork optimized for automation, remote operations, and STR workflows_
+This project is licensed under the **MIT License** — see the `LICENSE` file for details.
+
+---
+
+<p align="center">
+  Made with ❤️ by Kris
+</p>
+
+
 
 ## 📌 Overview
 
