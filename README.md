@@ -24,6 +24,8 @@ This edition is tailored for:
 The project retains the original **MIT License**.
 
 ---
+## 📁 Project Structure
+
 
 ## 🚀 Key Features (Kris Edition)
 
