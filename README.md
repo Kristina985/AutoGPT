@@ -25,6 +25,16 @@ The project retains the original **MIT License**.
 
 ---
 ## 📁 Project Structure
+AutoGPT/
+├── autogpt/                 # Core AutoGPT source code
+├── scripts/                 # Utility scripts and automation helpers
+├── tests/                   # Unit tests
+├── data/                    # Local data storage (optional)
+├── docs/                    # Documentation and notes
+├── examples/                # Usage examples and workflow demos
+├── requirements.txt         # Python dependencies
+├── README.md                # Project documentation (Kris Edition)
+└── LICENSE                  # MIT License
 ## 🧠 Usage Examples
 
 ### 1. Generate SOPs for STR Operations
@@ -57,7 +67,10 @@ The project retains the original **MIT License**.
 ---
 
 ## 🛠 Installation
-
+git clone https://github.com/Kristina985/AutoGPT.git (github.com in Bing)
+cd AutoGPT
+pip install -r requirements.txt
+python -m autogpt
 
 
 ## 🚀 Key Features (Kris Edition)
@@ -190,5 +203,9 @@ This project is licensed under the **MIT License** — see the `LICENSE` file fo
 ---
 
 <p align="center">
-  Made with ❤️ by Kris  
+  Made with ❤️ by Kris
 </p>
+
+
+---
+
