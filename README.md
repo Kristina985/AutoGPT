@@ -1,3 +1,12 @@
+<h1 align="center">AutoGPT – Kris Edition</h1>
+<p align="center">Automation • Remote Operations • STR Workflows</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10+-blue" />
+  <img src="https://img.shields.io/badge/License-MIT-green" />
+  <img src="https://img.shields.io/badge/AI-Automation-purple" />
+  <img src="https://img.shields.io/badge/STR-Operations-orange" />
+</p>
 # AutoGPT – Kris Edition  
 _Custom fork optimized for automation, remote operations, and STR workflows_
 
