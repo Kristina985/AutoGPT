@@ -26,15 +26,15 @@ The project retains the original **MIT License**.
 ---
 ## 📁 Project Structure
 AutoGPT/
-├── autogpt/                 # Core AutoGPT source code
-├── scripts/                 # Utility scripts and automation helpers
-├── tests/                   # Unit tests
-├── data/                    # Local data storage (optional)
-├── docs/                    # Documentation and notes
-├── examples/                # Usage examples and workflow demos
-├── requirements.txt         # Python dependencies
-├── README.md                # Project documentation (Kris Edition)
-└── LICENSE                  # MIT License
+autogpt/                 Core AutoGPT source code
+scripts/                 Utility scripts and automation helpers
+tests/                   Unit tests
+data/                    Local data storage (optional)
+docs/                    Documentation and notes
+examples/            Usage examples and workflow demos
+requirements.txt     Python dependencies
+README.md            Project documentation (Kris Edition)
+LICENSE              MIT License
 ## 🧠 Usage Examples
 
 ### 1. Generate SOPs for STR Operations
