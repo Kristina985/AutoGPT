@@ -25,6 +25,39 @@ The project retains the original **MIT License**.
 
 ---
 ## 📁 Project Structure
+## 🧠 Usage Examples
+
+### 1. Generate SOPs for STR Operations
+
+### 2. Market Analysis & Pricing Suggestions
+
+### 3. Guest Communication Assistant
+
+### 4. Remote Operations Automation
+
+---
+
+## ✨ Kris Edition Feature Highlights
+
+- **STR‑Optimized Task Flows**  
+  Predefined prompts and workflows for guest messaging, check‑in/out, cleaning coordination, and issue resolution.
+
+- **Automated SOP Generation**  
+  Create complete Standard Operating Procedures for any recurring task.
+
+- **Market & Pricing Intelligence**  
+  AI‑assisted analysis for STR pricing, occupancy trends, and competitive positioning.
+
+- **VA‑Friendly Workflows**  
+  Designed for virtual assistants handling remote operations, admin tasks, and communication.
+
+- **Documentation‑Ready Output**  
+  Generates clean, structured content suitable for Notion, Google Docs, or GitHub Wikis.
+
+---
+
+## 🛠 Installation
+
 
 
 ## 🚀 Key Features (Kris Edition)
@@ -136,3 +169,26 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER  
 DEALINGS IN THE SOFTWARE.
 
+---
+
+## 🧩 Kris Edition Notes
+
+This fork is maintained and customized by **Kris**, focusing on:
+- STR operations  
+- Remote work automation  
+- Virtual assistant workflows  
+- Documentation‑ready AI output  
+
+If you want to contribute, suggest improvements, or report issues, feel free to open an issue or submit a pull request.
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License** — see the `LICENSE` file for details.
+
+---
+
+<p align="center">
+  Made with ❤️ by Kris  
+</p>
